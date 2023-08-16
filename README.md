@@ -6,9 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my [Magic Inventory App](https://github.com/RaphaAmericano/magic-inventory-app)
-- 🔭 And working on my [Note App](http://note-block-app.herokuapp.com/) 
-- 🌱 I’m currently learning [NestJS](https://nestjs.com/) with microservices stuff like [Kafka](https://kafka.js.org/)
+- 🔭 I’m currently working on my portifolio, developing nice sites like [this]([https://raphaamericano.github.io/poc-3d-site]).
+- 🌱 I’m currently learning [NestJS](https://nestjs.com/) with microservices stuff like [Kafka](https://kafka.js.org/), Serverless Framework and AWS.
 - 🤓 Curious about monorepo
 <!--
 - 👯 I’m looking to collaborate on ...
