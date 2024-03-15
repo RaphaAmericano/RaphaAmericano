@@ -7,8 +7,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on my portifolio, developing nice sites like [this]([https://raphaamericano.github.io/poc-3d-site]).
-- 🌱 I’m currently learning [NestJS](https://nestjs.com/) with microservices stuff like [Kafka](https://kafka.js.org/), Serverless Framework and AWS.
-- 🤓 Curious about monorepo
+- ☁️ Iḿ currently studing [AWS](https://aws.amazon.com/) with CDK and Serverless Framework.
+- 🌱 I’m currently learning [NextJS](https://nextjs.org/).
+- 🤓 Curious about monorepo, microservice and software architeture.
 <!--
 - 👯 I’m looking to collaborate on ...
 -->
